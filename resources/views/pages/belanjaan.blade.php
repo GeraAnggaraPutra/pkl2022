@@ -21,7 +21,7 @@
                 <ul>
                     <li>
                         {{$jenis['nama_barang']}}
-                    </li>wy
+                    </li>
                 </ul>
                 Merk : {{$jenis['merk']}} <br>
                 Harga barang: {{$jenis['harga_barang']}} <br>
